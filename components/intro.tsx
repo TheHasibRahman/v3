@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://raw.githubusercontent.com/TheHasibRahman/v2/master/src/images/me.jpg?token=GHSAT0AAAAAACF7KMPOAVIRAASFW3NVBZPMZGPXBVQ"
+              src="https://raw.githubusercontent.com/TheHasibRahman/v2/master/src/images/me.jpg?token=GHSAT0AAAAAACF7KMPOBEZU7NQIUCMJN7COZGPXPSQ"
               alt="Hasib portrait"
               width="192"
               height="192"
